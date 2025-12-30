@@ -8,4 +8,4 @@ I'm a passionate developer looking to build cool things and solve interesting pr
 * Learning more about design patterns and DevOps best practices
 
 **Technologies I love:**
-C++ | Python | C# | VSCode | Copilot | ESP32 | STM | GeminiAI
+C++ | Python | C# | VSCode | Copilot | ESP32 | STM | Gemini | Claude
